@@ -36,6 +36,7 @@ const colors = {
   spotify: "#1db954",
   stripe: "#6772e5",
   telegram: "#0088cc",
+  tiktok: "#FF0050",
   trello: "#0079bf",
   tumblr: "#35465c",
   twitch: "#6441a5",
